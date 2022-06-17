@@ -2,6 +2,8 @@
 Build/
 Debug/
 Release/
+Game/Debug/
+Game/Release/
 
 # Visual Studio
 .vs/
