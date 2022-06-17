@@ -1,5 +1,7 @@
 # Build Directories
 Build/
+Debug/
+Release/
 
 # Visual Studio
 .vs/

@@ -1,6 +1,7 @@
 //Add all include c++ directories into this file
 //This file compiles each header once, then including the compiled state into the cpp
 //they are included to reduce compilation time
+//Should be included as the first file of all cpp files
 
 #pragma once
 
