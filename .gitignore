@@ -1,0 +1,12 @@
+# Build Directories
+Build/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Profiling/Log Files
+*.log
